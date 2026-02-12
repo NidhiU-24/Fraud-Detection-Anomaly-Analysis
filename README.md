@@ -1,5 +1,5 @@
 # Fraud-Detection-Anomaly-Analysis
-Fraud Detection &amp; Anomoly Analysis dashboard using python, DuckDB and Matplotlib
+Fraud Detection &amp; Anomaly Analysis dashboard using python, DuckDB and Matplotlib
 
 ## Project Overview
 This project builds an end-to-end fraud detection and anomaly analysis system using:
